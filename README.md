@@ -26,9 +26,15 @@ Perovskite-R1 is a large language model fine-tuned on **QwQ-32B**, specifically 
 
 ```text
 Perovskite-R1/
-├── Validation_Records/     # [IMPORTANT] Evaluation logs, human expert reviews, and raw outputs
-├── code/                   # Data preprocessing and fine-tuning scripts
-├── demos/                  # Jupyter notebooks for inference and demonstrations
-├── images/                 # Figures used in this README
-├── README.md               # Project documentation
-└── requirements.txt        # Python dependencies
+.
+├── app/                       
+│   ├── app.py                  
+│   └── requirements.txt        
+├── Preprocess/                 
+│   ├── gen_paper_cot.py      
+│   └── pdf2json.py            
+├── Validation_Records/   
+│   ├── ...          
+│   └── ...
+├── Process_Example.ipynb      
+└── README.md                  
