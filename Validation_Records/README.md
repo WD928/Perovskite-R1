@@ -9,10 +9,10 @@ Validation_Records/
 ├── Raw_Model_Outputs_and_Scores/      # Raw outputs and scores for all models on the benchmark
 ├── Human_Expert_Comparison_QwQ_vs_Perovskite-R1.json  # Side-by-side human expert evaluation (N=30)
 └── training_set_evaluation.json       # Quality and relevance assessment of the AI-generated training dataset
+```
 
 ## Detailed Descriptions
 
-```text
 1. Raw Model Outputs and Scores
 Path: Raw_Model_Outputs_and_Scores/
 
