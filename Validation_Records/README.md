@@ -14,7 +14,7 @@ Validation_Records/
 ## Detailed Descriptions
 
 1. Raw Model Outputs and Scores
-   ```text
+```text
 Path: Raw_Model_Outputs_and_Scores/
 
 This folder contains the raw inference logs for Perovskite-R1 and other baseline models (e.g., QwQ-32B, GPT-4o, Llama-3) evaluated on the domain-specific benchmark.
