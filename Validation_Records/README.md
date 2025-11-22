@@ -26,6 +26,7 @@ Data Fields: Includes the input question, the model's generated response, and th
 Purpose: To provide transparency regarding the quantitative results reported in the paper.
 ```
 2. Human Expert Comparison (Side-by-Side)
+```text
 File: Human_Expert_Comparison_QwQ_vs_Perovskite-R1.json
 
 This file records the blind side-by-side evaluation conducted by domain experts to verify the "expert-level proficiency" of Perovskite-R1 compared to the base model (QwQ-32B).
@@ -35,8 +36,9 @@ Methodology: Experts reviewed 30 randomly selected complex queries (involving sy
 Key Metrics: Better choice.
 
 Purpose: To qualitatively verify the reasoning enhancement achieved through domain-specific fine-tuning.
-
+```
 3. Training Set Quality Assessment
+```text
 File: training_set_evaluation.json
 
 This file addresses the concern regarding the reliability of the AI-generated training data (synthesized from OpenAI o1).
@@ -44,3 +46,4 @@ This file addresses the concern regarding the reliability of the AI-generated tr
 Content: Evaluation of the logical consistency, factual accuracy, and question-answer relevance for a sampled subset of the training set.
 
 Purpose: To demonstrate that the synthetic training data is of high quality and chemically valid, ensuring that the model does not learn from hallucinations or noise.
+```
