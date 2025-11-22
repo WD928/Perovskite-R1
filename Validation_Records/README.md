@@ -11,6 +11,7 @@ Validation_Records/
 └── training_set_evaluation.json       # Quality and relevance assessment of the AI-generated training dataset
 
 ## Detailed Descriptions
+
 1. Raw Model Outputs and Scores
 Path: Raw_Model_Outputs_and_Scores/
 
