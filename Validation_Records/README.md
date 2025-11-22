@@ -12,6 +12,7 @@ Validation_Records/
 
 ## Detailed Descriptions
 
+```text
 1. Raw Model Outputs and Scores
 Path: Raw_Model_Outputs_and_Scores/
 
