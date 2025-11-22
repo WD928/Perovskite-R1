@@ -14,6 +14,7 @@ Validation_Records/
 ## Detailed Descriptions
 
 1. Raw Model Outputs and Scores
+   ```text
 Path: Raw_Model_Outputs_and_Scores/
 
 This folder contains the raw inference logs for Perovskite-R1 and other baseline models (e.g., QwQ-32B, GPT-4o, Llama-3) evaluated on the domain-specific benchmark.
@@ -23,7 +24,7 @@ Content: Each JSON file represents one model's performance.
 Data Fields: Includes the input question, the model's generated response, and the per-question score (metrics).
 
 Purpose: To provide transparency regarding the quantitative results reported in the paper.
-
+```
 2. Human Expert Comparison (Side-by-Side)
 File: Human_Expert_Comparison_QwQ_vs_Perovskite-R1.json
 
