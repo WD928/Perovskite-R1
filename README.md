@@ -53,3 +53,10 @@ We provide a **Gradio-based web interface** that visualizes the model's reasonin
    ```bash
    python app/app.py --model_path /path/to/your/model
    ```
+
+## 🛠 Data Processing Pipeline
+
+The `Preprocess/` folder contains the core scripts used to construct the domain-specific dataset:
+
+* **`pdf2json.py`**: Extracts raw text and metadata from scientific PDFs, converting them into a structured JSON format suitable for training.
+* **`gen_paper_cot.py`**: A distillation script that utilizes the **OpenAI o1** model to generate high-quality Chain-of-Thought (CoT) reasoning paths based on the raw text.
