@@ -15,7 +15,7 @@ Perovskite-R1 is a large language model fine-tuned on **QwQ-32B**, specifically 
 
 | Resource | Description | Link |
 | :--- | :--- | :--- |
-| **Paper** | The full manuscript on arXiv | [Read Paper](https://arxiv.org/abs/24xx.xxxxx) |
+| **Paper** | The full manuscript on arXiv | [Read Paper](https://arxiv.org/abs/2507.16307) |
 | **Model** | Perovskite-R1 model weights | [Hugging Face](https://huggingface.co/JH976/Perovskite-R1) |
 | **Datasets** | Training set & Task-specific Benchmark | [Hugging Face](https://huggingface.co/datasets/JH976/Perovskite-R1) |
 | **Validation** | **Raw outputs, expert reviews & logs** | [Go to Folder](./Validation_Records) |
