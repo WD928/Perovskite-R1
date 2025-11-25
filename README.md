@@ -48,3 +48,8 @@ We provide a **Gradio-based web interface** that visualizes the model's reasonin
 1. Install dependencies:
    ```bash
    pip install -r app/requirements.txt
+   ```
+2. Run the application (specify your model path):
+   ```bash
+   python app/app.py --model_path /path/to/your/model
+   ```
