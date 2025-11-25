@@ -26,15 +26,25 @@ Perovskite-R1 is a large language model fine-tuned on **QwQ-32B**, specifically 
 
 ```text
 Perovskite-R1/
-.
-├── app/                       
-│   ├── app.py                  
-│   └── requirements.txt        
-├── Preprocess/                 
-│   ├── gen_paper_cot.py      
-│   └── pdf2json.py            
-├── Validation_Records/   
-│   ├── ...          
-│   └── ...
-├── Process_Example.ipynb      
-└── README.md                  
+├── app/
+│   ├── app.py                  # Gradio-based web interface (supports Thinking Process visualization)
+│   └── requirements.txt        # Dependencies for the demo application
+├── Preprocess/
+│   ├── gen_paper_cot.py        # Generates Chain-of-Thought (CoT) data using OpenAI o1
+│   └── pdf2json.py             # Parses PDF literature into structured JSON format
+├── Validation_Records/
+│   ├── check_contamination.py  # Script for data integrity and contamination analysis
+│   ├── Raw_Model_Outputs.../   # Inference logs for benchmarks
+│   └── Human_Expert...         # Expert evaluation records
+├── Process_Example.ipynb       # End-to-end tutorial (Preprocessing -> Training -> Inference)
+└── README.md            
+```
+
+## 🚀 Interactive Demo
+
+We provide a **Gradio-based web interface** that visualizes the model's reasoning process (Chain-of-Thought) separate from the final answer.
+
+### Setup & Run
+1. Install dependencies:
+   ```bash
+   pip install -r app/requirements.txt
