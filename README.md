@@ -60,3 +60,35 @@ The `Preprocess/` folder contains the core scripts used to construct the domain-
 
 * **`pdf2json.py`**: Extracts raw text and metadata from scientific PDFs, converting them into a structured JSON format suitable for training.
 * **`gen_paper_cot.py`**: A distillation script that utilizes the **OpenAI o1** model to generate high-quality Chain-of-Thought (CoT) reasoning paths based on the raw text.
+
+
+## 📖 End-to-End Tutorial
+
+For a complete walkthrough of our methodology, please refer to **[Process_Example.ipynb](./Process_Example.ipynb)**.
+
+This Jupyter Notebook demonstrates the entire workflow, including:
+1.  Data Preprocessing and formatting.
+2.  Fine-tuning configuration using LLaMA-Factory.
+3.  Inference examples.
+
+## 📊 Validation & Integrity
+
+We prioritize transparency and scientific rigor. The **[Validation_Records](./Validation_Records)** directory contains:
+
+* **`check_contamination.py`**: A script to rigorously verify that there is no data leakage between the training set and the benchmark (using N-gram and Semantic analysis).
+* **Raw Logs**: Complete inference outputs for Perovskite-R1 and baseline models.
+* **Expert Evaluations**: Records of the blind side-by-side human expert review.
+
+For more details on the validation metrics, please check the [README inside the folder](./Validation_Records/README.md).
+
+## 📜 Citation
+
+If you use this code or model in your research, please cite our paper:
+
+```bibtex
+@article{wang2025perovskite,
+  title={Perovskite-R1: A Domain-Specialized LLM for Intelligent Discovery of Precursor Additives and Experimental Design},
+  author={Wang, Xin-De and Chen, Zhi-Rui and Guo, Peng-Jie and Gao, Ze-Feng and Mu, Cheng and Lu, Zhong-Yi},
+  journal={arXiv preprint arXiv:2507.16307},
+  year={2025}
+}
