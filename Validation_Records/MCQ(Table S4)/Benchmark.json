@@ -1,0 +1,492 @@
+[
+  {
+    "question": "In the ligand-assisted synthesis of MAPbI3, introducing pyridine forms a PbI2(Py)2 nanostructured intermediate. Based on DFT calculations comparing this pyridine-promoted pathway with the conventional one, how does pyridine specifically change the reaction kinetics of perovskite formation?",
+    "options": {
+      "A": "It raises the activation energy to 1.004 eV, deliberately slowing nucleation to boost the thermodynamic growth of larger, defect-free crystals.",
+      "B": "It decreases the activation energy of the rate-determining step to about 0.741 eV, increasing the perovskite formation rate compared to the conventional barrier.",
+      "C": "It stabilizes the intermediate phase thermodynamically, preventing conversion to the perovskite phase until thermal annealing exceeds 150 °C.",
+      "D": "It induces a transition to the hexagonal δ-phase, which serves as a scaffold for vertical recrystallization with a negligible activation energy of 0.095 eV."
+    },
+    "correct_option": "B"
+  },
+  {
+    "question": "In the study of stabilizing FA-dominated perovskite precursor solutions like FA₀.₉MA₀.₁PbI₃, 1H NMR analysis shows that adding extrinsic H⁺ (using acidic additives) changes the solution chemistry. What specific spectral change and its mechanism are seen concerning the organic cations FA⁺ and MA⁺?",
+    "options": {
+      "A": "The resonance peaks for amine groups become distinct and well-defined, suggesting the decoupling of hydrogen bond interactions between the organic cations and iodide anions.",
+      "B": "The resonance peaks for amine groups broaden and flatten, implying a strengthened hydrogen bond network between the cations and the Pb-I framework.",
+      "C": "New split resonance peaks emerge in the aromatic region, indicating the H⁺-catalyzed formation of chemically stable MFA⁺ species through nucleophilic reactions.",
+      "D": "The resonance signal for the -NH₃ group of MA⁺ vanishes entirely, denoting the accelerated deprotonation of MA⁺ into volatile MA⁰ and HI."
+    },
+    "correct_option": "A"
+  },
+  {
+    "question": "In inverted MA/Br-free FA-based perovskite solar cell fabrication, when benzyl carbamimidothioate hydrochloride (BLSCl) is used to modulate crystallization and passivate defects, XPS analysis of the 2D/3D heterostructure shows a specific electronic interaction between S in BLS and Pb in the perovskite. Which option correctly describes the observed binding energy shifts for the Pb 4f and S 2p core levels?",
+    "options": {
+      "A": "The Pb 4f peaks shift to higher binding energy, while the S 2p peaks shift to lower binding energy, suggesting Pb oxidation.",
+      "B": "The Pb 4f peaks shift to lower binding energy, while the S 2p peaks shift to higher binding energy, indicating electron donation from S to Pb.",
+      "C": "Both Pb 4f and S 2p peaks shift to higher binding energies due to compressive lattice strain from the bulky benzyl group.",
+      "D": "The Pb 4f peaks stay the same, but the S 2p peaks split into a doublet showing disulfide bridge formation."
+    },
+    "correct_option": "B"
+  },
+  {
+    "question": "In the fabrication of wide - bandgap FA - based perovskite films, when potassium tetrakis(pentafluorophenyl)borate (KTFB) is added as an antisolvent additive, which crystallographic adsorption mechanism controls grain boundary growth and defect passivation?",
+    "options": {
+      "A": "The TFB⁻ anion preferentially adsorbs onto the (110) facet with an adsorption energy about three times that on the (100) facet, anchoring FA⁺ ions via π - cation interactions and binding to under - coordinated Pb.",
+      "B": "The TFB⁻ anion selectively binds to the (100) facet to reduce surface energy, suppressing lateral grain expansion and promoting vertical growth along the c - axis.",
+      "C": "The K⁺ cation intercalates into the lattice at grain boundaries to form a strain - relieving mixed - cation phase, while the TFB⁻ anion forms a self - assembled monolayer to physically block iodide migration.",
+      "D": "The bulky TFB⁻ anion induces the formation of a 2D Ruddlesden - Popper phase at grain boundaries, acting as a dielectric spacer confining charge carriers to grain interiors."
+    },
+    "correct_option": "A"
+  },
+  {
+    "question": "In the process of optimizing inverted perovskite solar cells using double - side treatment methods, 4 - fluoro - 2 - methoxybenzonitrile (FMeOB) is used to control crystallization kinetics at the film's upper surface. What is the specific spectroscopic signature and associated chemical mechanism that describe the interaction between FMeOB and the PbI₂ framework?",
+    "options": {
+      "A": "A redshift of the cyano (-CN) stretching vibration frequency, suggesting enhanced bond stiffness of the C≡N bond during its insertion into A - site voids.",
+      "B": "A blueshift of the cyano (-CN) stretching vibration frequency, implying the creation of a Lewis adduct between the nitrogen lone pair and uncoordinated Pb²⁺ ions.",
+      "C": "The absence of the methoxy (-OMe) stretching mode, which means in - situ hydrolysis of FMeOB occurs to form a carboxylic acid - based passivation layer.",
+      "D": "A shift of the C - F bond vibration to lower energy levels, indicating strong halogen bonding interactions with surface iodide deficiencies."
+    },
+    "correct_option": "B"
+  },
+  {
+    "question": "In triple-cation (FA/MA/Cs) lead halide perovskites, introducing deuterium oxide ($D_2O$) as a processing additive causes hydrogen-deuterium exchange at the amine sites of organic cations. How does this isotopic substitution affect lattice vibrational properties and charge carrier transport mechanism according to DFT calculations and carrier dynamic studies?",
+    "options": {
+      "A": "It raises the vibrational frequencies of $PbI_6$ octahedra via stronger hydrogen bonding, boosting polaron binding energy.",
+      "B": "It reduces the longitudinal optical (LO) phonon frequencies of the inorganic framework, weakening electron-LO phonon (Fröhlich) coupling and increasing carrier mobility.",
+      "C": "The heavier isotope significantly increases charge carrier effective mass ($m^*$), decreasing exciton binding energy.",
+      "D": "It forms a wide-bandgap 2D deuterated capping layer at grain boundaries that suppresses carrier scattering without changing bulk phonon modes."
+    },
+    "correct_option": "B"
+  },
+  {
+    "question": "In the context of defect passivation for narrow - bandgap Sn–Pb perovskites such as FA0.6MA0.4Sn0.6Pb0.4I3, the joint introduction of phenethylammonium (PEA+) and guanidinium (GA+) additives results in the formation of a specific hetero - structured interface. What is the crystallographic nature of this passivating phase, and how does its charge transport behavior compare to that of pure n = 1 2D phases (PEA2PbI4 and GA2PbI4)?",
+    "options": {
+      "A": "It forms a pure n = 1 mixed - cation phase (PEA)(GA)PbI4 that completely blocks out - of - plane charge transport, acting only as an insulating tunneling barrier.",
+      "B": "It forms a quasi - 2D n = 2 phase (PEA)2GAPb2I7 with enhanced out - of - plane charge transport and much longer carrier lifetimes than its n = 1 counterparts.",
+      "C": "It forms a quasi - 2D n = 3 phase (PEA)2GAPb3I10 that promotes in - plane transport but suppresses vertical transport due to the larger GA cation's increased quantum confinement.",
+      "D": "It prevents the formation of low - dimensional phases, with GA+ in interstitial sites and PEA+ passivating grain boundaries, leading to isotropic transport properties."
+    },
+    "correct_option": "B"
+  },
+  {
+    "question": "In air - processed inverted perovskite solar cells' surface reconstruction, treating the perovskite film with ZnI₂ in acetonitrile causes an in situ cation exchange reaction. What is the mechanism for the formation of the passivating shell and its electronic characteristics?",
+    "options": {
+      "A": "Zn²⁺ substitutes at surface Pb sites for doping, reducing the lattice parameter and inducing strong p - type surface doping to match the hole transport layer.",
+      "B": "Zn²⁺ coordinates with surface iodides to form soluble anionic complexes like ZnI₄²⁻, removing organic cations and leaving an insoluble, n - type PbI₂ shell.",
+      "C": "ZnI₂ physically adsorbs on grain boundaries without chemical breakdown, forming a hydrophobic wide - bandgap capping layer increasing the surface work function.",
+      "D": "ACN selectively dissolves surface Pb²⁺ defects and Zn²⁺ fills the vacancies, creating a stable 2D Ruddlesden - Popper Zn - based perovskite phase."
+    },
+    "correct_option": "B"
+  },
+  {
+    "question": "When 4 - chlorophenyltrifluoroborate (4 - ClPTFBK) is added to a hybrid perovskite film, XPS analysis of the Pb 4f core level shows a specific shift compared to the pristine sample. What is the direction of this binding energy shift and the associated electronic mechanism?",
+    "options": {
+      "A": "Shift to higher binding energy due to the strong inductive electron - withdrawing effect of fluorine atoms in -BF3 reducing electron density around Pb2+.",
+      "B": "Shift to lower binding energy as the -BF3 group coordinates with undercoordinated Pb2+, increasing the electron cloud density around lead ions.",
+      "C": "Shift to lower binding energy caused by the reduction of Pb2+ to metallic Pb0 induced by the high reduction potential of K+ cations.",
+      "D": "Shift to higher binding energy resulting from compressive lattice strain introduced by interstitial K+ ions."
+    },
+    "correct_option": "B"
+  },
+  {
+    "question": "In the study of enhancing the operational stability of inverted CsFAMA perovskite solar cells with the star - shaped polymer POSP, Fourier Transform Infrared (FTIR) spectroscopy shows evidence of a coordination mechanism. Which of the following best describes the change in the carbonyl (C = O) functional group's spectrum and its chemical reason?",
+    "options": {
+      "A": "A blue - shift of the C = O stretching vibration to higher wavenumbers, indicating bond stiffening due to steric confinement in grain boundaries.",
+      "B": "A red - shift of about 9.5 cm⁻¹ in the C = O stretching vibration, attributed to electron donation from the carbonyl oxygen to unsaturated Pb²⁺ sites.",
+      "C": "Complete disappearance of the C = O stretching peak and emergence of a C–O–Pb mode, suggesting a nucleophilic substitution reaction displacing iodine.",
+      "D": "No shift in the C = O stretching frequency but significant peak broadening caused by hydrogen bonding with organic cations (FA⁺/MA⁺)."
+    },
+    "correct_option": "B"
+  },
+  {
+    "question": "In optimizing Formamidinium Lead Iodide (FAPbI3) perovskite solar cells with Lead Formate (PbFa) as an additive, which spectroscopic signature indicates the chemical coordination between the formate anion (HCOO-) and perovskite precursor components?",
+    "options": {
+      "A": "A shift of the C=O stretching vibration to lower wavenumbers (from ~1605 cm⁻¹ to ~1593–1597 cm⁻¹), suggesting coordination with Pb²⁺ and FA⁺.",
+      "B": "A shift of the Pb 4f binding energy to higher values in XPS, implying a decrease in electron density around the lead cation due to oxidation.",
+      "C": "A shift of the C=O stretching vibration to higher wavenumbers (above 1620 cm⁻¹), attributed to bond stiffening from lattice compression.",
+      "D": "The emergence of low - angle diffraction peaks (<10° 2θ) in XRD, indicating the formation of a 2D Ruddlesden - Popper phase at grain boundaries."
+    },
+    "correct_option": "A"
+  },
+  {
+    "question": "Based on Density Functional Theory calculations showing a cation–π interaction with a high binding energy of ≈1.53 eV in stabilizing methylammonium lead iodide ($MAPbI_3$) perovskites using rubrene, which geometric configuration corresponds to this energy minimum?",
+    "options": {
+      "A": "A 'tripod' configuration where all three N–H bonds of the ammonium group are directed symmetrically toward the center of the tetracene core.",
+      "B": "A chelation-like interaction where two N–H bonds of the cation simultaneously anchor to the central tetracene and a pendant phenyl group.",
+      "C": "An inverted orientation where the methyl ($CH_3$) group interacts with the π - system via C–H⋯π dispersion forces, minimizing electrostatic repulsion.",
+      "D": "A parallel - displaced stacking where the C–N axis of the cation aligns parallel to the plane of the rubrene molecule to maximize orbital overlap."
+    },
+    "correct_option": "B"
+  },
+  {
+    "question": "When using (4'-pentyl-[1,1'-biphenyl]-4-yl)methanaminium iodide to passivate a mixed-cation lead halide perovskite film surface, XPS analysis of the Pb 4f core level shows which spectral change indicating defect suppression?",
+    "options": {
+      "A": "A shift to lower binding energy due to electron shielding from the HBPC's electron-rich biphenyl groups.",
+      "B": "A shift to higher binding energy along with disappearance of low-energy shoulder peaks (137.0 eV and 142.0 eV) related to metallic lead ($Pb^0$).",
+      "C": "Emergence of new satellite peaks above 145 eV, suggesting formation of a 2D Ruddlesden-Popper ($n=1$) surface phase.",
+      "D": "No obvious shift in Pb 4f binding energy but significant peak broadening due to Pb-I-N hydrogen bond formation."
+    },
+    "correct_option": "B"
+  },
+  {
+    "question": "When metallic tin (Sn) powder is added to the precursor solution of narrow-bandgap Sn-based perovskites, what is the specific chemical mechanism through which it stabilizes the material against oxidation?",
+    "options": {
+      "A": "Electron release via thermal decomposition of hydrazine moieties to reduce Sn4+",
+      "B": "Comproportionation reaction with Sn4+ species to regenerate Sn2+",
+      "C": "Formation of a hydrophobic 2D capping layer at grain boundaries to block oxygen ingress",
+      "D": "Lewis acid-base coordination where metallic Sn fills iodide vacancies to suppress ion migration"
+    },
+    "correct_option": "B"
+  },
+  {
+    "question": "In the fabrication of FACsPbI3 perovskite solar cells, adding Trimethylgermanium chloride (TGC) to the precursor solution enhances stability via a 'successive interaction' mechanism different from standard Lewis acid coordination. What is the specific chemical transformation TGC undergoes and how does the resulting product interact with the perovskite lattice?",
+    "options": {
+      "A": "The Ge center acts as a Lewis acid coordinating with undercoordinated Iodide (I-) ions at grain boundaries to prevent iodide migration without changing its structure.",
+      "B": "The TGC molecule intercalates into the perovskite lattice to form a 2D Ruddlesden-Popper phase capping layer, as shown by low-angle diffraction peaks in GIWAXS.",
+      "C": "The Ge-Cl bond undergoes hydrolysis with adsorbed water to form Ge-OH groups that passivate defects via O-H···N and O-H···I hydrogen bonding with Formamidinium Iodide (FAI).",
+      "D": "The methyl groups of TGC undergo electrophilic substitution with FA+ cations to form a hydrophobic methyl-FA complex increasing the water contact angle to over 110°."
+    },
+    "correct_option": "C"
+  },
+  {
+    "question": "In the study of methylammonium lead iodide ($MAPbI_3$) perovskite films with excess lead iodide ($PbI_2$), the detection of metallic lead ($Pb^0$) by X-ray Photoelectron Spectroscopy (XPS) is usually considered an *in situ* degradation artifact. According to thermodynamic stability data, what is the specific mechanism for the preferential formation of $Pb^0$ from the $PbI_2$ phase during measurement?",
+    "options": {
+      "A": "The ultra-high vacuum conditions reduce the iodine sublimation enthalpy, causing $PbI_2$ to disproportionate into $Pb^0$ while the perovskite surface maintains stoichiometric stability.",
+      "B": "Incident X-ray photons supply energy surpassing the $PbI_2$ dissociation energy (~2.51 eV), leading to its decomposition, while the $MAPbI_3$ lattice stays stable due to a much higher dissociation energy (~6.17 eV).",
+      "C": "Differential surface charging on insulating $PbI_2$ crystallites causes a shift in the $Pb^{2+}$ 4f peaks' binding energy, overlapping with the $Pb^0$ reference signal.",
+      "D": "Local thermal heating from the X-ray source decreases the activation energy for ion migration, resulting in the aggregation of interstitial lead defects into metallic clusters."
+    },
+    "correct_option": "B"
+  },
+  {
+    "question": "In the context of FAPbI₃ perovskite film crystallization, which thermodynamic property of 2,3 - dihydroisoindole (DHII) differentiates it from phenethylammonium (PEA), leading to the spontaneous formation of a 2D phase at the buried interface?",
+    "options": {
+      "A": "DHII has a weaker binding energy with the FAPbI₃ lattice compared to PEA, causing it to be excluded from the solidifying 3D phase and move to the bottom.",
+      "B": "DHII has a higher dipole moment than PEA, inducing electrostatic adsorption onto the charged SnO₂ substrate before nucleation.",
+      "C": "DHII forms strong hydrogen bonds with FA⁺ cations, increasing the 3D phase formation energy and delaying substrate interface nucleation.",
+      "D": "DHII has higher solubility in the DMF/DMSO solvent mixture, resulting in a reversed supersaturation gradient with 2D phase precipitation last at the top surface."
+    },
+    "correct_option": "A"
+  },
+  {
+    "question": "In the chemical passivation of hybrid halide perovskites ($CH_3NH_3PbI_3$), pyridine-functionalized polymers improve performance through Lewis acid-base coordination, while amine-rich polymers like branched polyethyleneimine (b-PEI) decrease carrier lifetimes despite high binding energies. What is the identified chemical mechanism responsible for this performance degradation?",
+    "options": {
+      "A": "Formation of an insulating 2D Ruddlesden-Popper phase at grain boundaries impeding charge extraction",
+      "B": "Irreversible reduction of surface $Pb^{2+}$ to metallic $Pb^0$ by amine groups creating deep-level recombination centers",
+      "C": "Protonation of amino groups into ammonium species forming ionic bonds with iodide and weakening the Pb-I framework via an electron-withdrawing effect",
+      "D": "Steric hindrance of the branched polymer structure preventing penetration into grain boundaries for insufficient trap passivation"
+    },
+    "correct_option": "C"
+  },
+  {
+    "question": "When 6-Methylnicotinamide (CNA) is used as a multifunctional additive in hybrid lead halide perovskite solar cells, how does its interaction with the perovskite crystal lattice manifest in terms of the FTIR spectral signature of the carbonyl (C=O) group and the resulting crystallographic phase composition?",
+    "options": {
+      "A": "The C=O stretching frequency shifts to higher wavenumbers (blue shift) due to steric compression, and a 2D Ruddlesden-Popper phase forms at the grain boundaries.",
+      "B": "The C=O stretching frequency shifts to lower wavenumbers (red shift) due to coordination with undercoordinated Pb²⁺, while the film retains a pure 3D phase without forming 2D structures.",
+      "C": "The C=O stretching frequency remains unchanged, as coordination occurs exclusively through the pyridine nitrogen, inducing a phase transition to the non-photoactive δ-phase.",
+      "D": "The C=O stretching frequency splits into a doublet due to symmetry breaking, leading to the precipitation of PbI₂ crystallites that serve as the primary passivation layer."
+    },
+    "correct_option": "B"
+  },
+  {
+    "question": "In the context of interfacial engineering of metal halide perovskites (e.g., FA0.85MA0.15Pb(I0.85Br0.15)3), after surface treatment with the strong oxidant Mo(tfd-COCF3)3 for p-doping, which X-ray Photoelectron Spectroscopy (XPS) spectral signature is most likely to confirm that the work function increase is due to a Fermi level shift (doping) rather than just an interfacial surface dipole?",
+    "options": {
+      "A": "A rigid shift of core level peaks (Pb 4f and I 3d) to lower binding energies (by ~0.6–0.7 eV), indicating the Fermi level has moved closer to the valence band maximum.",
+      "B": "A rigid shift of core level peaks (Pb 4f and I 3d) to higher binding energies, indicating the extraction of electrons from the Pb sub-lattice and the formation of undercoordinated Pb2+ defects.",
+      "C": "The emergence of a new, high-binding-energy shoulder on the Pb 4f peak, indicative of the formation of a covalent Pb–S bond between the perovskite and the dithiolene ligand.",
+      "D": "No observable shift in the core level binding energies, but a significant shift in the secondary electron cutoff, confirming the work function change is exclusively due to the alignment of molecular dipoles at the surface."
+    },
+    "correct_option": "A"
+  },
+  {
+    "question": "In inverted (pin) perovskite solar cells with mixed-cation absorbers, surface treatment with 4-chlorobenzenesulfonate (4Cl-BZS) shows a distinct interfacial alignment compared to benzenesulfonate (BZS) and 4-methylbenzenesulfonate (4CH3-BZS). Based on DFT and UPS analysis, what is the specific combination of ligand orientation and Fermi level shift for the 4Cl-BZS treated surface?",
+    "options": {
+      "A": "The ligand has a perpendicular orientation to the surface, causing a Fermi-level upshift and an increased conduction band offset with C60.",
+      "B": "The ligand has a planar (parallel) orientation to the surface, resulting in a Fermi-level downshift and a reduced conduction band offset with C60.",
+      "C": "The ligand intercalates into the perovskite lattice to form a 2D Ruddlesden-Popper phase, leading to a Fermi-level upshift and reduced surface trap density.",
+      "D": "The ligand has a planar (parallel) orientation to the surface, causing a Fermi-level upshift and an increased work function to match the hole transport layer."
+    },
+    "correct_option": "B"
+  },
+  {
+    "question": "When using poly(urea - siloxane) copolymers like PU - PDMS - MCU or PU - PDMS - IU to enhance the mechanical resilience and stability of halide perovskite films, the Fourier Transform Infrared (FTIR) spectroscopy of the polymer - perovskite adduct shows a change in the urea carbonyl (C = O) stretching frequency compared to the pristine polymer. Which option correctly describes this spectral change and its cause?",
+    "options": {
+      "A": "The C = O stretching band shifts to a higher wavenumber (≈1700 cm⁻¹), showing interchain hydrogen bond rupture and polymer chain steric confinement within grain boundaries.",
+      "B": "The C = O stretching band shifts to a lower wavenumber (≈1630 cm⁻¹), indicating the formation of coordinate covalent bonds between the carbonyl oxygen and perovskite precursor or uncoordinated Pb sites.",
+      "C": "The C = O stretching band remains unchanged, but a new peak at 950 cm⁻¹ appears, signifying the formation of a direct covalent bond between the siloxane (Si - O) backbone and iodide anions.",
+      "D": "The C = O stretching band disappears, replaced by a C - N stretch peak at 1400 cm⁻¹, indicating urea linkage catalytic decomposition into free amines during thermal annealing."
+    },
+    "correct_option": "B"
+  },
+  {
+    "question": "In the preparation of methylammonium lead iodide ($CH_3NH_3PbI_3$) perovskite solar cells with poly(propylene carbonate) (PPC) as a cross - linking additive forming a macromolecular intermediate phase, which Fourier Transform Infrared (FTIR) spectral signature directly indicates the coordinate covalent interaction between PPC polymer chains and perovskite precursor species?",
+    "options": {
+      "A": "A blue - shift of the carbonyl (C = O) stretching vibration, suggesting bond stiffening from steric confinement in the perovskite lattice.",
+      "B": "A red - shift of the carbonyl (C = O) stretching vibration, implying a reduction in C = O bond strength due to electron donation to Lewis acidic sites.",
+      "C": "The splitting of the carbonyl (C = O) peak into a doublet, indicating the formation of a 2D Ruddlesden - Popper phase.",
+      "D": "The complete disappearance of the carbonyl (C = O) peak, showing the catalytic decomposition of the carbonate group into $CO_2$ during annealing."
+    },
+    "correct_option": "B"
+  },
+  {
+    "question": "In the fabrication of high-performance perovskite solar cells using in-situ polymerized polyacrylonitrile (PAN) for passivation, the interaction between the polymer's cyano groups (-C≡N) and perovskite lattice defects is crucial. How is the formation of the coordination bond between the cyano group and uncoordinated Pb²⁺ defects shown in the Fourier Transform Infrared (FTIR) spectrum compared to pure PAN?",
+    "options": {
+      "A": "The -C≡N stretching vibration shifts to a higher wavenumber due to kinematic coupling between the polymer chain and the heavy metal iodide framework.",
+      "B": "The -C≡N stretching vibration splits into a doublet, indicating coexistence of surface-adsorbed and bulk-intercalated polymer species.",
+      "C": "The -C≡N stretching vibration shifts to a lower wavenumber, attributed to electron donation from the nitrogen lone pair to the lead cation.",
+      "D": "The -C≡N stretching vibration intensity is completely suppressed while C–H bending modes intensify, signifying steric shielding of the nitrile group by lead iodide octahedra."
+    },
+    "correct_option": "C"
+  },
+  {
+    "question": "In the dual-passivation approach for CH3NH3PbI3 perovskite films with ammonium chloride as an additive, which mechanism explains how the ammonium cation (NH4+) addresses negatively charged ionic defects (MA+ vacancies)?",
+    "options": {
+      "A": "NH4+ ions form a stable 2D Ruddlesden-Popper phase at grain boundaries to physically block ion movement.",
+      "B": "NH4+ ions directly coordinate with under-coordinated Pb2+ sites, acting as Lewis bases to passivate positive vacancy defects.",
+      "C": "NH4+ ions temporarily occupy A-site cavities to make up for MA+ lack during precipitation and then exchange with MA+ during annealing.",
+      "D": "NH4+ ions permanently dope the lattice, substituting MA+ sites to form a stable mixed-cation NH4xMA1-xPbI3 alloy with an enlarged bandgap."
+    },
+    "correct_option": "C"
+  },
+  {
+    "question": "In hybrid perovskite solar cells modified with PBDF - DFC (FP1 - H fraction), XPS shows chemical interaction between the polymer and perovskite lattice. What is the specific spectral feature of the Pb 4f core level in the modified film compared to the pristine control, and what is the associated mechanistic cause?",
+    "options": {
+      "A": "A shift of ~0.2 eV to higher binding energy, suggesting electron density withdrawal from lead cations by electronegative oxygen atoms.",
+      "B": "A shift of ~0.2 eV to lower binding energy, resulting from electron lone pair donation from oxygen atoms in furan and ketone groups to Pb²⁺ ions.",
+      "C": "The appearance of a satellite peak at higher binding energy, implying the formation of a 2D Ruddlesden - Popper phase at grain boundaries.",
+      "D": "A marked reduction in peak full - width at half - maximum (FWHM) without a binding energy shift, indicating physical passivation of surface defects without chemical bonding."
+    },
+    "correct_option": "B"
+  },
+  {
+    "question": "When using p - phenyl dimethylammonium iodide (PDMAI) to passivate hybrid perovskite solar cells, how does the surface passivation layer structure appear by X - ray diffraction (XRD) analysis compared to its analog p - phenyl diammonium iodide (PDAI)?",
+    "options": {
+      "A": "It self - assembles into a crystalline 2D Ruddlesden - Popper phase, shown by a sharp diffraction peak near 7.1°.",
+      "B": "It forms vertically oriented 2D nanosheets embedding into the film surface, creating a rough morphology.",
+      "C": "It forms an amorphous capping layer, lacking low - angle diffraction peaks related to 2D perovskite phases.",
+      "D": "It causes the emergence of a δ - phase perovskite peak due to lattice strain from the rigid aryl core."
+    },
+    "correct_option": "C"
+  },
+  {
+    "question": "In the context of changing the conductivity type of wide-bandgap lead bromide perovskites, the molecular dopant 4PACz is used to transition from n-type to p-type. Which option accurately describes the electronic interaction mechanism at perovskite grain boundaries and its related X-ray photoelectron spectroscopy (XPS) signature?",
+    "options": {
+      "A": "The carbazole moiety donates electron density to undercoordinated Pb²⁺ defects acting as a Lewis base, leading to a shift of the Pb 4f peak to lower binding energy.",
+      "B": "The phosphonic acid group withdraws electron density from the lead sublattice by forming covalent P–O–Pb bonds, resulting in a shift of the Pb 4f peak to higher binding energy.",
+      "C": "The phosphonic acid group undergoes oxidation while passivating bromide vacancies, indicated by a shift of the P 2p peak to higher binding energy compared to the pristine molecule.",
+      "D": "4PACz molecules intercalate into the perovskite lattice to form a quasi-2D Ruddlesden–Popper phase, evidenced by the splitting of the Pb 4f peak into two distinct chemical environments."
+    },
+    "correct_option": "B"
+  },
+  {
+    "question": "When using p - aminobenzoic acid (PABA) as an additive in blade - coated halide perovskite films, XRD analysis shows a significant change in crystallographic orientation compared to a pristine sample. What is the specific structural change and its quantitative impact on the characteristic facet intensity ratio?",
+    "options": {
+      "A": "The additive promotes growth along the (110) facet while suppressing the (100) facet, reducing the (100)/(110) intensity ratio to near zero.",
+      "B": "The additive induces the formation of a Ruddlesden - Popper 2D phase, as shown by new low - angle diffraction peaks below 10°.",
+      "C": "The additive suppresses the growth of the (110) facet and promotes the (100) facet, increasing the (100)/(110) peak intensity ratio from approximately 0.9 to over 14.",
+      "D": "The additive causes a transition from the orthorhombic phase to a cubic phase, characterized by the merging of the (001) and (100) diffraction peaks."
+    },
+    "correct_option": "C"
+  },
+  {
+    "question": "In Cs/FA/MA mixed perovskite solar cells, when KPF6 acts as a dual-functional additive, how does the PF6⁻ anion's incorporation affect the bulk perovskite crystal structure as shown by XRD?",
+    "options": {
+      "A": "The (110) diffraction peak shifts to a higher 2θ angle, implying lattice contraction from substituting organic A-site cations with smaller K⁺ ions.",
+      "B": "The (110) diffraction peak shifts to a lower 2θ angle, indicating lattice expansion due to partial substitution of halide ions by larger PF6⁻ anions.",
+      "C": "Distinct low-angle diffraction peaks appear (<10°), showing the formation of a 2D Ruddlesden-Popper phase induced by K⁺ spacer cations.",
+      "D": "The (110) peak splits into doublet reflections, suggesting a phase transition from cubic to tetragonal symmetry driven by the steric hindrance of the PF6⁻ group."
+    },
+    "correct_option": "B"
+  },
+  {
+    "question": "In the process of fabricating formamidinium-based perovskite films with a 2-methoxyethanol precursor ink doped with 1,3-dimethyl-imidazolidinone, which Fourier-transform infrared spectroscopic signature indicates the formation of a stable intermediate adduct between 1,3-dimethyl-imidazolidinone and the lead iodide framework?",
+    "options": {
+      "A": "A red shift of the C=O stretching vibration, suggesting electron donation from the oxygen atom to the $Pb^{2+}$ ion",
+      "B": "A blue shift of the C=O stretching vibration due to the confinement of the carbonyl bond in the intermediate lattice",
+      "C": "Splitting of the C-N stretching vibration peaks, implying bidentate coordination by the nitrogen atoms in the imidazolidinone ring",
+      "D": "A broad N-H stretching band emerging at 3400 $cm^{-1}$, indicating hydrogen bonding between the nitrogen in 1,3-dimethyl-imidazolidinone and the formamidinium cation"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question": "In the context of a dual-passivation strategy using Phenethylammonium bromide (PEABr) and 5-amino-1,3,4-thiadiazole-2-thiol (5ATT) for inverted perovskite solar cells, how do PEABr and 5ATT distribute within the perovskite film and what is the primary physical governing factor?",
+    "options": {
+      "A": "Both agents are strictly confined to the top surface, forming a mixed-cation 2D Ruddlesden-Popper phase for surface defect passivation and as a moisture barrier.",
+      "B": "PEABr penetrates deeply along grain boundaries due to cation exchange kinetics, while 5ATT stays on the surface to coordinate with uncoordinated Pb²⁺ through its thiol group.",
+      "C": "PEABr localizes at the film surface, and 5ATT infiltrates the bulk perovskite lattice as its molecular size is smaller than the perovskite lattice parameter.",
+      "D": "PEABr and 5ATT phase-segregate, with PEABr accumulating at the buried interface near the hole transport layer and 5ATT enriching the top surface near the electron transport layer."
+    },
+    "correct_option": "C"
+  },
+  {
+    "question": "In the processing of wide-bandgap mixed-halide perovskite films like FA0.8Cs0.2Pb(I0.6Br0.4)3, piracetam as a crystal-modifying agent leads to a specific crystallization mechanism and microstructure evolution. Which option accurately depicts the phase formation and crystallographic orientation caused by it?",
+    "options": {
+      "A": "Piracetam replaces into the A-site of the perovskite lattice during initial spin-coating, causing lattice contraction and stabilizing the cubic alpha-phase against phase segregation.",
+      "B": "Piracetam first modulates nucleation to favor (110) facet orientation and then reacts with residual PbI2 during annealing to form 1D (Pi)PbI3 nanoneedles at grain boundaries.",
+      "C": "Piracetam forms a 2D Ruddlesden-Popper passivation layer at the buried interface upon anti-solvent dripping, templating the growth of (100)-oriented perovskite grains.",
+      "D": "Piracetam acts as a transient liquid-medium additive lowering crystallization activation energy but volatilizes during thermal annealing, leaving a pure 3D perovskite phase."
+    },
+    "correct_option": "B"
+  },
+  {
+    "question": "In the crystallization kinetics of formamidinium-based perovskites (such as FAPbI3), with an increase in hydroxide ion ($OH^-$) concentration in the precursor solution, how do the activation energies ($E_a$) for the formation of the photoactive $\\alpha$-phase and non-photoactive $\\delta$-phase change according to Density Functional Theory (DFT) calculations and experimental observation?",
+    "options": {
+      "A": "It decreases the $E_a$ for the $\\alpha$-phase and increases the $E_a$ for the $\\delta$-phase, promoting the formation of high-purity perovskite films.",
+      "B": "It increases the $E_a$ for the $\\alpha$-phase while decreasing the $E_a$ for the $\\delta$-phase, making the $\\delta$-phase kinetically preferred at high alkalinity.",
+      "C": "It significantly lowers the $E_a$ for both phases simultaneously due to the catalytic effect of the hydroxide anion on the Pb-I bond coordination.",
+      "D": "It has no impact on the kinetic activation energies ($E_a$) but thermodynamically stabilizes the $\\delta$-phase through the substitution of $OH^-$ into the iodine lattice sites."
+    },
+    "correct_option": "B"
+  },
+  {
+    "question": "Using DFT calculations, in the study of passivating CsPbI₂Br all - inorganic perovskite films with methylammonium formate, what is the specific structure of the dominant trap centers on the (001) surface resulting from Iodine vacancies ($V_I$) and how does the formate anion (Fm⁻) passivate them?",
+    "options": {
+      "A": "The defect appears as separate undercoordinated Pb²⁺ ions, and Fm⁻ passivation occurs only through Lewis acid - base interaction with the carbonyl oxygen.",
+      "B": "The defect forms as Pb–Pb dimers leading to significant electron wavefunction localization, and Fm⁻ passivation is achieved by creating a Pb–Fm bond to reduce the localization.",
+      "C": "The defect takes the form of metallic Pb⁰ clusters, and Fm⁻ passivation is carried out by oxidizing lead due to the electron - withdrawing property of the formate group.",
+      "D": "The defect shows a lattice collapse around the vacancy, and Fm⁻ passivation is done by physically filling the vacancy site (A - site substitution) to recover cubic symmetry."
+    },
+    "correct_option": "B"
+  },
+  {
+    "question": "During the fabrication of planar heterojunction CH3NH3PbI3 perovskite solar cells with N,N - dimethylformamide as the host solvent, the addition of N - cyclohexyl - 2 - pyrrolidone (CHP) gives better film morphology and device reproducibility than Dimethyl sulfoxide (DMSO) and N - methyl - 2 - pyrrolidone (NMP). What is the main reason for CHP's superior performance over DMSO and NMP according to the governing physicochemical mechanism?",
+    "options": {
+      "A": "CHP has a much lower vapor pressure (0.05 mmHg) than DMSO and NMP, resulting in the slowest crystallization kinetics during film formation.",
+      "B": "CHP shows greater Lewis basicity than DMSO, forming a stable adduct with PbI2 that prevents needle - shaped crystal growth.",
+      "C": "The cyclohexyl group in CHP causes a preferential (110) crystal orientation during the annealing process.",
+      "D": "CHP forms a high - boiling azeotrope with DMF, raising the surface tension of the precursor solution and suppressing Marangoni flow."
+    },
+    "correct_option": "A"
+  },
+  {
+    "question": "In the hybrid evaporation - solution deposition of FA - based perovskites, single addition of Guanidine Thiocyanate (GASCN) forms non - photoactive δ - phase before annealing, while co - addition of Methylammonium Iodide (MAI) causes a 'Reaction Compensation' effect yielding highly oriented α - phase perovskites at room temperature. What is the chemical mechanism responsible for this compensation?",
+    "options": {
+      "A": "MAI promotes the formation of a transient MA - Pb - I intermediate phase that serves as a structural template, reducing the α - phase nucleation barrier through an intermediate - to - alpha transition.",
+      "B": "MA⁺ ions react chemically with SCN⁻ to produce volatile HSCN and methylamine gases, removing SCN⁻ from the lattice while avoiding A - site cation deprotonation.",
+      "C": "The smaller ionic radius of MA⁺ exerts steric compression on the perovskite lattice, counteracting the expansion strain caused by substituting I⁻ with the larger SCN⁻ anions.",
+      "D": "MAI raises the dielectric constant of the precursor solution, suppressing the formation of face - sharing octahedral polymorphs (δ - phase) in favor of corner - sharing networks."
+    },
+    "correct_option": "B"
+  },
+  {
+    "question": "The n-type conjugated small molecule Y-Th2 is utilized as an additive to improve the performance and stability of inverted perovskite solar cells. What is the primary chemical mechanism by which Y-Th2 passivates defects and modulates crystallization within the perovskite film?",
+    "options": {
+      "A": "It incorporates into the bulk crystal lattice by substituting the A-site cation, thereby inducing lattice contraction and relieving strain.",
+      "B": "It forms a wide-bandgap 2D Ruddlesden-Popper phase on the surface that acts exclusively as a moisture barrier.",
+      "C": "It coordinates with uncoordinated Pb2+ ions via Lewis acid–base interactions and forms hydrogen bonds with organic A-site cations.",
+      "D": "It undergoes a chemical reaction with halide ions to form a covalent network that completely encapsulates the perovskite grains."
+    },
+    "correct_option": "C"
+  },
+  {
+    "question": "How do metal ion additives such as Silver (Ag⁺), Strontium (Sr²⁺), and Cerium (Ce³⁺) interact with MAPbI₃ perovskite films to modify their electronic properties?",
+    "options": {
+      "A": "They primarily substitute Pb²⁺ ions within the bulk lattice, resulting in a tunable bandgap alloy.",
+      "B": "They form a wide-bandgap 2D perovskite capping layer that acts as an insulating passivation barrier.",
+      "C": "They intercalate into the organic cation sites throughout the film, suppressing ion migration and significantly reducing dark current.",
+      "D": "They segregate to the film surface due to low bulk solubility, inducing metallic n-type doping states."
+    },
+    "correct_option": "D"
+  },
+  {
+    "question": "In the context of optimizing wide-bandgap perovskite films, how does the additive dodecylphosphonic acid (DDPA) primarily influence the film's microstructure and crystallization dynamics?",
+    "options": {
+      "A": "It integrates into the bulk lattice A-site to cause unit cell contraction and increase the intrinsic bandgap.",
+      "B": "Its long-alkyl chains spatially constrain grain tilting during growth, promoting a preferred (011) vertical crystal orientation.",
+      "C": "It acts as a nucleation agent that significantly increases the density of nucleation sites, resulting in a film composed of small, isotropic grains.",
+      "D": "The phosphonic acid functional groups induce a phase transition to a pure 2D Ruddlesden-Popper phase throughout the entire film thickness."
+    },
+    "correct_option": "B"
+  },
+  {
+    "question": "When the conjugated covalent organic framework TTDA-TTA-COF is incorporated into FAPbI3 perovskite films, what is its primary role regarding the crystallographic phase composition?",
+    "options": {
+      "A": "It substitutes the A-site cation within the lattice to form a chemically alloyed mixed-cation perovskite.",
+      "B": "It forms a wide-bandgap 2D Ruddlesden-Popper perovskite capping layer on the film surface.",
+      "C": "It suppresses the formation of the non-photoactive hexagonal δ-phase to promote pure α-phase crystallization.",
+      "D": "It induces a permanent phase transition to an orthorhombic crystal system at room temperature."
+    },
+    "correct_option": "C"
+  },
+  {
+    "question": "In the context of developing ultrawide-bandgap perovskites for triple-junction solar cells, how does the pseudohalide anion cyanate (OCN⁻) primarily interact with the perovskite crystal structure?",
+    "options": {
+      "A": "It segregates to the grain boundaries to form a stable two-dimensional (2D) Ruddlesden-Popper phase that passivates surface defects.",
+      "B": "It incorporates directly into the 3D lattice by substituting halide anions, resulting in lattice contraction and suppressed phase segregation.",
+      "C": "It acts as a sacrificial additive that regulates crystallization kinetics but evaporates entirely from the film during the thermal annealing process.",
+      "D": "It occupies interstitial sites within the perovskite cage, causing a significant expansion of the unit cell volume due to steric hindrance."
+    },
+    "correct_option": "B"
+  },
+  {
+    "question": "In the context of modifying the wide-bandgap perovskite interface, how does the additive Piperazine-1-carboxamide hydrochloride (PCACl) primarily interact with surface defects to suppress non-radiative recombination?",
+    "options": {
+      "A": "It functions primarily through electrostatic field-effect passivation by accumulating charge at the surface, with negligible chemical bonding to defects.",
+      "B": "It coordinates with uncoordinated lead ions via its amide oxygen and piperazine nitrogen atoms, while forming hydrogen bonds with halide ions.",
+      "C": "It acts as a bulk dopant that substitutes the A-site cation throughout the film to contract the lattice and stabilize the cubic phase.",
+      "D": "It triggers the spontaneous formation of a thick, insulating 2D Ruddlesden-Popper perovskite capping layer that prevents electron extraction."
+    },
+    "correct_option": "B"
+  },
+  {
+    "question": "In the context of stabilizing the surface of ultra-wide bandgap (UWBG) perovskites, what is the primary mechanistic function of the additive potassium thioglycolate (PT) when applied at the perovskite/electron transport layer interface?",
+    "options": {
+      "A": "It acts as a 'healing' agent that mitigates surface lattice distortion and inhibits the formation of Pb–Pb dimers caused by bromide loss.",
+      "B": "It serves as a large organic spacer that converts the surface region into a 2D Ruddlesden-Popper phase to block ion migration.",
+      "C": "It functions as the primary field-effect passivator by creating a strong positive fixed charge layer via ordered ammonium tails.",
+      "D": "It acts as a bulk A-site dopant that expands the crystal lattice to reduce the bandgap energy."
+    },
+    "correct_option": "A"
+  },
+  {
+    "question": "When Benzylamine (BnAm) is introduced as an additive into a Formamidinium (FA)-based metal-halide perovskite precursor solution, what is the primary in situ chemical reaction responsible for generating the effective passivating species?",
+    "options": {
+      "A": "Protonation by hydrohalic acids to form Benzylammonium, which effectively substitutes into the A-site of the 3D perovskite lattice.",
+      "B": "Nucleophilic attack on the Formamidinium cation to synthesize N-benzyl formamidinium (BnFA+) accompanied by ammonia release.",
+      "C": "Chelation of Pb2+ ions by the amine group to form a supramolecular polymer network that templates vertical crystal growth.",
+      "D": "Oxidative polymerization of the benzylamine on the perovskite surface to form a conductive hole-transporting interfacial layer."
+    },
+    "correct_option": "B"
+  },
+  {
+    "question": "When the hydrophilic fullerene derivative PCBB-OEG is introduced into the methylammonium iodide (MAI) precursor solution during the two-step deposition of MAPbI3, what characteristic spatial distribution does the additive exhibit in the final perovskite film?",
+    "options": {
+      "A": "It intercalates between the inorganic lead-iodide sheets to form a layered 2D/3D hybrid perovskite structure.",
+      "B": "It accumulates exclusively at the bottom interface to modify the contact with the hole transport layer.",
+      "C": "It forms a top-down gradient distribution with an ultrathin fullerene-rich layer on the film surface.",
+      "D": "It disperses homogeneously throughout the bulk grain boundaries to create a uniform bulk heterojunction."
+    },
+    "correct_option": "C"
+  },
+  {
+    "question": "In the context of defect passivation in MAPbI3 perovskite solar cells using Sodium Dodecyl Sulfate (SDS) as an additive, which statement accurately describes the primary interaction mechanism and spatial distribution of the additive?",
+    "options": {
+      "A": "The SDS molecules incorporate into the bulk crystal lattice, where the sodium ions replace methylammonium cations to contract the unit cell volume.",
+      "B": "The additive acts as a volatile Lewis base that temporarily slows crystallization kinetics but is completely removed during thermal annealing.",
+      "C": "The SDS molecules anchor to the perovskite surface and grain boundaries, coordinating with under-coordinated Pb2+ via the sulfate group while the alkyl chains form a hydrophobic barrier.",
+      "D": "The additive triggers the formation of a 2D Ruddlesden-Popper phase throughout the bulk of the film, resulting in a distinct low-angle diffraction peak in XRD patterns."
+    },
+    "correct_option": "C"
+  },
+  {
+    "question": "What specific coordination behavior distinguishes the additive Methyl Bromoacetate (MBrA) from Methyl Chloroacetate (MClA) when interacting with undercoordinated Pb2+ ions in FAMAPbI3 perovskite films?",
+    "options": {
+      "A": "It preferentially forms a dimer complex where two additive molecules bind to a single Pb2+ ion.",
+      "B": "It incorporates into the perovskite lattice A-sites to compensate for methylammonium vacancies.",
+      "C": "It induces the formation of a 2D Ruddlesden-Popper perovskite phase at the grain boundaries.",
+      "D": "It forms a monomeric adduct exclusively, preventing the steric crowding of Pb2+ sites."
+    },
+    "correct_option": "A"
+  },
+  {
+    "question": "In the context of FAPbI3 perovskite crystallization, what is the primary mechanism by which the additive 2,4-diaminopyrimidine (DAP) regulates film formation?",
+    "options": {
+      "A": "It substitutes into the bulk lattice A-site to contract the unit cell and entropically stabilize the cubic phase.",
+      "B": "It induces the formation of heterogeneous seeds that inhibit solvent-coordinated intermediates and facilitate the transformation to the alpha-phase.",
+      "C": "It acts primarily as a high-boiling point solvent additive that slows down crystallization kinetics solely by retarding solvent evaporation.",
+      "D": "It forms a thermodynamically stable 2D Ruddlesden-Popper phase that segregates grains and permanently blocks charge transport between layers."
+    },
+    "correct_option": "B"
+  }
+]
