@@ -6,6 +6,7 @@ This directory contains the detailed validation records, raw experimental logs, 
 
 ```text
 Validation_Records/
+├── MCQ(Table 4)/    #The MCQ-format benchmark dataset mentioned in the SI and the corresponding model test results
 ├── Raw_Model_Outputs_and_Scores/      # Raw outputs and scores for all models on the benchmark
 ├── Human_Expert_Comparison_QwQ_vs_Perovskite-R1.json  # Side-by-side human expert evaluation (N=30)
 └── training_set_evaluation.json       # Quality and relevance assessment of the AI-generated training dataset
