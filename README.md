@@ -86,9 +86,12 @@ For more details on the validation metrics, please check the [README inside the 
 If you use this code or model in your research, please cite our paper:
 
 ```bibtex
-@article{wang2025perovskite,
-  title={Perovskite-R1: A Domain-Specialized LLM for Intelligent Discovery of Precursor Additives and Experimental Design},
+@article{wang2026perovskite,
+  title={Perovskite-R1: a domain-specialized large language model for intelligent discovery of precursor additives and experimental design},
   author={Wang, Xin-De and Chen, Zhi-Rui and Guo, Peng-Jie and Gao, Ze-Feng and Mu, Cheng and Lu, Zhong-Yi},
-  journal={arXiv preprint arXiv:2507.16307},
-  year={2025}
+  journal={Communications Materials},
+  volume={7},
+  pages={86},
+  year={2026},
+  publisher={Nature Publishing Group UK London}
 }
