@@ -1,4 +1,4 @@
-# Perovskite-R1: A Domain-Specialized LLM for Intelligent Discovery of Precursor Additives
+# Perovskite-R1: a domain-specialized large language model for intelligent discovery of precursor additives and experimental design
 
 [![arXiv](https://img.shields.io/badge/arXiv-Paper-b31b1b.svg)](https://arxiv.org/abs/24xx.xxxxx) 
 [![Hugging Face Datasets](https://img.shields.io/badge/🤗%20Hugging%20Face-Datasets-yellow.svg)](https://huggingface.co/datasets/JH976/Perovskite-R1)
