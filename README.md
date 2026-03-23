@@ -1,5 +1,6 @@
 # Perovskite-R1: a domain-specialized large language model for intelligent discovery of precursor additives and experimental design
 
+[![Published](https://img.shields.io/badge/Published_in-Communications_Materials-0070bb.svg)](https://www.nature.com/articles/s43246-026-01099-9)
 [![arXiv](https://img.shields.io/badge/arXiv-Paper-b31b1b.svg)](https://arxiv.org/abs/24xx.xxxxx) 
 [![Hugging Face Datasets](https://img.shields.io/badge/🤗%20Hugging%20Face-Datasets-yellow.svg)](https://huggingface.co/datasets/JH976/Perovskite-R1)
 [![Hugging Face Model](https://img.shields.io/badge/🤗%20Hugging%20Face-Model-blue.svg)](https://huggingface.co/JH976/Perovskite-R1)
@@ -15,6 +16,7 @@ Perovskite-R1 is a large language model fine-tuned on **QwQ-32B**, specifically 
 
 | Resource | Description | Link |
 | :--- | :--- | :--- |
+| **Official Paper** | Published version in *Communications Materials* | [Read Article](https://www.nature.com/articles/s43246-026-01099-9) |
 | **Paper** | The full manuscript on arXiv | [Read Paper](https://arxiv.org/abs/2507.16307) |
 | **Model** | Perovskite-R1 model weights | [Hugging Face](https://huggingface.co/JH976/Perovskite-R1) |
 | **Datasets** | Training set & Task-specific Benchmark | [Hugging Face](https://huggingface.co/datasets/JH976/Perovskite-R1) |
