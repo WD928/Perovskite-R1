@@ -5,7 +5,7 @@
 [![Hugging Face Model](https://img.shields.io/badge/🤗%20Hugging%20Face-Model-blue.svg)](https://huggingface.co/JH976/Perovskite-R1)
 [![License](https://img.shields.io/badge/License-Apache%202.0-green.svg)](./LICENSE)
 
-This is the official repository for the paper **"Perovskite-R1: A Domain-Specialized LLM for Intelligent Discovery of Precursor Additives and Experimental Design"**.
+This is the official repository for the paper **"Perovskite-R1: a domain-specialized large language model for intelligent discovery of precursor additives and experimental design"**.
 
 Perovskite-R1 is a large language model fine-tuned on **QwQ-32B**, specifically designed to assist materials scientists in perovskite synthesis planning, precursor selection, and experimental optimization.
 
